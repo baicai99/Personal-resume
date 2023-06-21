@@ -1,9 +1,10 @@
 # 个人简历/Personal-resume
 ## 中文
-* 2023.6.21更新：一个大学生自己做的个人简历项目。感谢[CodingStartup起码课](https://space.bilibili.com/451368848/?spm_id_from=333.999.0.0)，里面部分组件的源代码来自于他，一个前端大佬。
+* 2023.6.21更新：一个大学生自己做的个人简历项目。感谢[CodingStartup起码课](https://space.bilibili.com/451368848/?spm_id_from=333.999.0.0)，里面部分组件的源代码来自于他，一个前端大佬。为了避免版权纠纷，所有图片都采用了picsum的开源图片作为填充替代。文字填充采用Chinese Lorem。
 ## English
 * 2023.6.21 Update: A personal resume project made by college students themselves. Thank [CodingStartup class at least] (https://space.bilibili.com/451368848/?spm_id_from=333.999.0.0), the inside parts of the source code from him, and a front end bosses.
 # 预览图
+![screencapture-file-Users-zhengjiyuan-Documents-index-html-2023-06-21-22_21_08](https://github.com/baicai99/Personal-resume/assets/101706274/83b5057c-6cc6-4451-bc03-216c6e1b3a4e)
 # 通用免责声明/General disclaimer
 ## 中文
 侵权联系声明：
